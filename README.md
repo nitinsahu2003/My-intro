@@ -1,4 +1,4 @@
-# nitinsahu-demo
+# nitinsahu-Intro
 Hi there! 👋 Welcome to My GitHub Profile
 I'm a BTech student currently diving into Java programming and exploring data structures and algorithms through platforms like LeetCode. Passionate about problem-solving, I enjoy learning new approaches and continuously improving my coding skills.
 
